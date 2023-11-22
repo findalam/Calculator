@@ -1,0 +1,7 @@
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\Calculator\Calculator\obj\Debug\Calculator.pdb
